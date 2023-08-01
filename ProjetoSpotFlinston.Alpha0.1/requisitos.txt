@@ -1,0 +1,25 @@
+Adicionar musicas à biblioteca /`_/
+
+Adicionar musicas da biblioteca na Playlist /`_/
+
+Mostrar a musica atual /`_/
+
+Função de executar o sistema /`_/
+
+Encerrar APP /`_/
+
+Mostrar conteudo de biblioteca (Musica, duração e album) /`_/
+
+Mostrar conteudo de Playlist (Em sequencia, com os requisitos acima) /`_/
+
+Passar musica (Excluir primeira musica da Playlist) /`_/
+
+Excluir musica da Playlist (Excluir qualquer posição) - A fazer
+
+Excluir musica da Biblioteca (Excluir qualquer música) - A fazer
+
+
+
+
+
+ 

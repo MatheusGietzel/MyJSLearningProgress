@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Cadastro de recruta</h1>
+</body>
+<script>
+    let Nome = prompt("Digite seu nome")
+    let Sobrenome = prompt("Digite seu sobrenome")
+    let CampoDeEstudo = prompt("Qual seu campo de estudo?")
+    let AnoNascimento = prompt("Qual seu ano de nascimento?")
+
+    let AnoAtual = new Date().getFullYear();
+    let Idade = AnoAtual - AnoNascimento;
+
+    console.log("Seu nome é " + Nome + " " + Sobrenome)
+    console.log("Está estudando " + CampoDeEstudo)
+    console.log("Sua idade atual é " + Idade)
+</script>
+</html>
